@@ -1,0 +1,19 @@
+{
+ "mode": "search",
+ "dateTimeF[]": ["2021-01-01", "00:00"],
+ "dateTimeT[]": ["2021-01-01", "23:59"],
+ "Comp": "C0",
+ "Sort": "S0",
+ "additionalC": false,
+ "boundsAr[]": [],
+ "city[]": ["99"],
+ "dep[]": ["000", "999"],
+ "epi[]": ["99"],
+ "mag[]": ["0.0", "9.9"],
+ "maxInt": 1,
+ "obsInt": 1,
+ "observed": true,
+ "pref[]": ["25"],
+ "seisCount": false,
+ "station[]": ["99"]
+}
